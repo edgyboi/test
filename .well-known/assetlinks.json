@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "dev.linkaja.id",
+    "sha256_cert_fingerprints":
+    ["AE:65:4B:67:5E:D1:37:6C:F0:27:2B:19:63:D5:CE:E9:99:A4:74:19:8D:3B:94:59:D1:40:7D:42:F1:E3:68:45"]
+  }
+}]
